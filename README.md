@@ -5,3 +5,6 @@ Extension for Ulauncher to open websites in firefox
 
 Ulauncher: [Ulauncher](https://ulauncher.io)
 
+## Demo
+
+![](demo.gif)
